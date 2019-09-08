@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # meizudemo
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# meizu.demo
+>>>>>>> 3f7151e845d111c675070a329428a25a604aa4b7
